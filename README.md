@@ -68,6 +68,7 @@ Available in:
 - French
 - Polish
 - Chinese
+- Russian
 
 ---
 
