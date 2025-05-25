@@ -1,6 +1,10 @@
 DARK TIDINGS
 VERSION HISTORY:
 
+Version 2.8
+
+- split scripts and behaviour of the mod's seatrolls for oBG2 and BG2EE to make the mod compatible to the EE fixpack
+
 Version 2.7
 
 - added Russian translation by by Origanum8 and scheele
