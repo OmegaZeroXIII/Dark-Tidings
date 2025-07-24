@@ -9,7 +9,7 @@ BACKUP ~Tidings/backup~
 AUTHOR "Acifer"
 AUTO_TRA ~Tidings/language/autotra/%LANGUAGE%/%s~
 README ~Tidings/Documentation/Dark_Tidings_Readme.pdf~
-VERSION ~2.4~
+VERSION ~2.8~
 
 ALWAYS
   ACTION_IF GAME_IS ~eet~ BEGIN
