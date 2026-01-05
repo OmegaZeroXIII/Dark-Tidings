@@ -1,5 +1,5 @@
 /*************************************************************************
- * Dark Tidings V 2.8
+ * Dark Tidings V 2.9
  *
  *
  *
@@ -9,7 +9,7 @@ BACKUP ~Tidings/backup~
 AUTHOR "Acifer"
 AUTO_TRA ~Tidings/language/autotra/%LANGUAGE%/%s~
 README ~Tidings/Documentation/Dark_Tidings_Readme.pdf~
-VERSION ~2.8~
+VERSION ~2.9~
 
 ALWAYS
   ACTION_IF GAME_IS ~eet~ BEGIN
@@ -111,7 +111,7 @@ LANGUAGE ~Russian (by Origanum8 and scheele)~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
-// Dark Tidings V 2.8
+// Dark Tidings V 2.9
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 BEGIN @1510
