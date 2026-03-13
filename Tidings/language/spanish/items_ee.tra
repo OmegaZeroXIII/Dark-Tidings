@@ -215,11 +215,7 @@ Requiere:
  5 de Fuerza
 
 Peso: 3
-
-No utilizable por:
- Druida
- Clérigo
- Mago~
+~
 
 @2062 = ~Protección contra veneno~
 @2063 = ~Protección contra veneno
@@ -254,8 +250,4 @@ Requiere:
  5 de Fuerza
 
 Peso: 3
-
-No utilizable por:
- Druida
- Clérigo
- Mago~
+~
